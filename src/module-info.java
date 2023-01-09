@@ -1,0 +1,2 @@
+module Mi_traductor {
+}
